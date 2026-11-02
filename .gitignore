@@ -205,6 +205,21 @@ cython_debug/
 # Temporary file for partial code execution
 tempCodeRunnerFile.py
 
+# Fichiers personnels et journaux produits pendant les ateliers
+awa_metriques.jsonl
+ma_voix.wav
+ma_voix.mp3
+.validation/
+
+# Fichiers temporaires Word, PowerPoint et Excel
+~$*
+
+# Ressources formateur et sources contenant les solutions : conserver en local
+/formateur/
+/notebooks/formateur/
+/archives/
+/scripts/build_jour2.py
+
 # Ruff stuff:
 .ruff_cache/
 

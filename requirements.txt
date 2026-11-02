@@ -1,0 +1,6 @@
+# Environnement commun aux notebooks et aux simulations hors ligne.
+jupyterlab
+numpy
+scipy
+matplotlib
+websockets

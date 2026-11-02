@@ -1,0 +1,40 @@
+BAOBAB SOFTWARE : BASE DE CONNAISSANCES D'AWA
+(Entreprise fictive créée pour la formation Agents vocaux, AI&ML Factory)
+
+1. QUI SOMMES-NOUS
+Baobab Software édite Baobab Gestion, un logiciel de gestion en ligne pour les PME d'Afrique de l'Ouest.
+Siège : Dakar, Sénégal. Équipe commerciale joignable du lundi au vendredi, de 8 h 30 à 18 h (heure de Dakar).
+Plus de 600 entreprises clientes au Sénégal, en Côte d'Ivoire et au Mali.
+
+2. LE PRODUIT : BAOBAB GESTION
+Modules inclus : facturation et devis, gestion des stocks, comptabilité simplifiée (SYSCOHADA), suivi des clients, tableau de bord.
+Paiements : intégration Orange Money et Wave pour encaisser les factures.
+Accès : navigateur web et application mobile Android et iOS. Fonctionne aussi en connexion faible, avec synchronisation automatique.
+Langues de l'interface : français et anglais.
+Hébergement : données hébergées dans un centre de données certifié, sauvegarde quotidienne.
+
+3. LES FORMULES ET LES TARIFS (prix hors taxes, par mois)
+Formule Essentiel : 25 000 francs CFA par mois. Jusqu'à 3 utilisateurs. Facturation, devis, suivi des clients.
+Formule Pro : 49 000 francs CFA par mois. Jusqu'à 15 utilisateurs. Tous les modules, dont stocks, comptabilité et paiements mobiles.
+Formule Entreprise : sur devis, à partir de 16 utilisateurs. Intégrations sur mesure, accompagnement dédié.
+Engagement : sans engagement pour Essentiel et Pro, résiliable chaque mois.
+Paiement annuel : deux mois offerts sur Essentiel et Pro en cas de paiement annuel. C'est la seule réduction existante.
+Mise en route : offerte pour Essentiel et Pro (formation en ligne de 2 heures). Pour Entreprise, incluse dans le devis.
+Essai gratuit : 14 jours, sans carte bancaire.
+
+4. RÈGLES COMMERCIALES
+Aucune autre remise n'existe. L'assistante ne promet jamais de remise, de geste commercial ou de prix différent.
+Une demande de remise ou de prix spécial est transmise à un conseiller, qui rappelle le prospect.
+Les délais de mise en route : Essentiel et Pro sous 48 heures ouvrées ; Entreprise selon le devis.
+
+5. FOIRE AUX QUESTIONS
+Est-ce que Baobab Gestion fonctionne sans internet ? Oui, en mode hors ligne pour la facturation et les stocks. Les données se synchronisent au retour de la connexion.
+Peut-on importer nos données Excel ? Oui, les clients, articles et stocks s'importent depuis un fichier Excel lors de la mise en route.
+Est-ce conforme au SYSCOHADA ? Oui, le module comptabilité suit le plan comptable SYSCOHADA révisé.
+Peut-on changer de formule ? Oui, à tout moment, le changement prend effet le mois suivant.
+Y a-t-il un support ? Oui, par téléphone et WhatsApp, du lundi au vendredi de 8 h 30 à 18 h. Support prioritaire pour la formule Entreprise.
+Combien de temps dure un rendez-vous avec un conseiller ? 30 minutes, en visioconférence ou par téléphone.
+
+6. RENDEZ-VOUS AVEC UN CONSEILLER
+Créneaux possibles : du lundi au vendredi, de 9 h à 17 h, heure de Dakar.
+Le rendez-vous dure 30 minutes. Le prospect reçoit une confirmation par SMS ou e-mail.
