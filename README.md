@@ -45,10 +45,4 @@ scripts/                  Outils de validation du cours
 docs/                     Notes et corrections pédagogiques fournies
 ```
 
-## Sources et versions
 
-Les supports proviennent des ZIP `Formation_Agents_Vocaux_Modules1-5.zip` et `Agents_vocaux_0_a_Z.zip`. Le parcours utilise la version complète du notebook du jour 2, couvrant les modules 5 à 7.
-
-Les dossiers `formateur/`, `notebooks/formateur/` et `archives/`, ainsi que `scripts/build_jour2.py`, restent uniquement en local : ils contiennent les corrigés ou permettent de les reconstituer. Ils sont exclus par `.gitignore`.
-
-Les supports bureautiques et le code source sont conservés tels que fournis. Seuls les deux notebooks complets du jour 2 ont été adaptés pour retrouver le dossier `code/`. Les [corrections signalées sur les modules 4 et 5](docs/corrections_modules_4_5.md) sont des notes historiques livrées dans le ZIP : elles restent à vérifier sur les présentations disponibles.
